@@ -1,7 +1,7 @@
 # Fullstack
 
 ## run npm start 
-* starts server and loads app in browser
+* starts server and loads app in browsers 
 
 ## or run `node server.js` in one terminal and `ng s -o` in another 
 
